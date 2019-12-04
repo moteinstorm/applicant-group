@@ -3,6 +3,7 @@
   <groupId>com.zhuzhiguang.applicant</groupId>
   <artifactId>applicant-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <packaging>pom</packaging>
   <modules>
   	<module>applicantn-interfaces</module>
